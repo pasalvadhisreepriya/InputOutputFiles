@@ -1,0 +1,64 @@
+Function 1:
+
+Prompt :- 
+Face Makeup related data
+
+Response:-
+
+Product Name                Brand          Price (USD)   Availability
+-------------------------------------------------------------------------
+Foundation XYZ            BeautyCo           $24.99       In Stock
+Blush RosyCheeks          BlushGalore        $14.99     Out of Stock
+Concealer PerfectCover    CoverUpCosmetics   $16.99     Out of Stock
+Highlighter GlowBeam      LuminousBeauty     $18.99     Out of Stock
+
+
+...................................................................................................................
+Function 2:
+
+Prompt :-
+Sum of all the prices of category Eye Makeup with detailed explanation.
+
+Response :-
+To find the sum of all Eye Makeup prices, we need to add up the prices of Mascara LashMax, Eyeshadow Palette Glimmer, Eyeliner PreciseLine.
+
+Mascara LashMax price is $12.49  
+Eyeshadow Palette Glimmer price is $29.99 
+Eyeliner PreciseLine price is $8.99 
+
+Adding up all the prices:
+
+$12.49 + $29.99 + $8.99 = 51.47 US$ 
+
+Therefore, the sum of all Eye Makeup prices are 51.47 US$.
+...................................................................................................................
+Function 3 :
+
+Prompt :-
+In Stock related details and Out of Stock related details
+
+Response :-
+
+In Stock details :-
+
+ Product Name                  Brand           Price (USD)      Category         
+--------------------------------------------------------------------------------
+Foundation XYZ               BeautyCo            $24.99         Face Makeup        
+Eyeshadow Palette Glimmer    SparkleCosmetics    $29.99         Eye Makeup         
+Nail Polish GlossyNails      NailsInc            $7.49          Nail Products       
+Makeup Brushes Set Pro       BrushMaster         $34.99         Makeup Brushes      
+Eyeliner PreciseLine         FineLinerBeauty     $8.99          Eye Makeup     
+     
+
+Out of Stock details :-
+
+ Product Name                  Brand           Price (USD)      Category          
+---------------------------------------------------------------------------------
+
+Mascara LashMax              GlamourLuxe         $12.49         Eye Makeup        
+Lipstick LuxeShade           BelleBeauty         $9.99          Lip Makeup          
+Blush RosyCheeks             BlushGalore         $14.99         Face Makeup        
+Concealer PerfectCover       CoverUpCosmetics    $16.99         Face Makeup        
+Highlighter GlowBeam         LuminousBeauty      $18.99         Face Makeup        
+
+

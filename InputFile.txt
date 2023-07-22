@@ -1,0 +1,12 @@
+ Product Name                  Brand           Price (USD)      Category          Availability
+----------------------------------------------------------------------------------------------------
+Foundation XYZ               BeautyCo            $24.99         Face Makeup         In Stock
+Mascara LashMax              GlamourLuxe         $12.49         Eye Makeup         Out of Stock
+Lipstick LuxeShade           BelleBeauty         $9.99          Lip Makeup         Out of Stock
+Eyeshadow Palette Glimmer    SparkleCosmetics    $29.99         Eye Makeup          In Stock
+Blush RosyCheeks             BlushGalore         $14.99         Face Makeup        Out of Stock
+Nail Polish GlossyNails      NailsInc            $7.49          Nail Products       In Stock
+Makeup Brushes Set Pro       BrushMaster         $34.99         Makeup Brushes      In Stock
+Concealer PerfectCover       CoverUpCosmetics    $16.99         Face Makeup        Out of Stock
+Eyeliner PreciseLine         FineLinerBeauty     $8.99          Eye Makeup          In Stock
+Highlighter GlowBeam         LuminousBeauty      $18.99         Face Makeup        Out of Stock
